@@ -1,0 +1,7 @@
+com\training\user\controller\UserController.class
+com\training\user\LabourApplication.class
+com\training\user\service\UserService.class
+com\training\user\model\user.class
+com\training\user\model\ErrorModel.class
+com\training\user\repository\userInterface.class
+com\training\user\exception\GlobalExceptionHandler.class
